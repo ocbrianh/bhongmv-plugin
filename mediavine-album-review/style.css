@@ -1,0 +1,19 @@
+div.albumWrapper ul {
+    list-style-type: none;
+}
+
+div.albumWrapper ul li span.album_label {
+    font-weight: bold;
+}
+
+div.albumWrapper ul {
+    margin-left: 0;
+}
+
+div.albumWrapper ul li a {
+    text-decoration: none;
+}
+
+div.albumWrapper ul li a:hover {
+    text-decoration: underline;
+}
