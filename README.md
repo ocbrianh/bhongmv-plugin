@@ -1,10 +1,10 @@
-=== Brian Hong Mediavine Code Challenge Plugin ===. 
-Tags: music, review. 
-Requires at least: 5.1. 
-Tested up to: 5.5.1. 
-Requires PHP: 7.2. 
-License: GPLv2 or later. 
-License URI: http://www.gnu.org/licenses/gpl-2.0.html. 
+=== Brian Hong Mediavine Code Challenge Plugin ===<br />
+Tags: music, review<br />
+Requires at least: 5.1<br />
+Tested up to: 5.5.1<br />
+Requires PHP: 7.2<br />
+License: GPLv2 or later<br />
+License URI: http://www.gnu.org/licenses/gpl-2.0.html. <br />
 
 
 Plugin that can be used to embed album reviews within a post.
