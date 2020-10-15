@@ -1,6 +1,16 @@
+=== Brian Hong Mediavine Code Challenge Plugin ===
+
+Tags: music, review
+Requires at least: 5.1
+Tested up to: 5.5.1
+Requires PHP: 7.2
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 Plugin that can be used to embed album reviews within a post.
 
 == Description ==
+
 This plugin generates shortcodes for album reviews within a post. Each album review contains the following attributes.
 * Album Name
 * Artist
