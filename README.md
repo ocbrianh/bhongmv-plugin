@@ -1,5 +1,4 @@
 === Brian Hong Mediavine Code Challenge Plugin ===
-
 Tags: music, review
 
 Requires at least: 5.1
